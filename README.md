@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahlam-design
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning coding with Python
+- 👀 I’m interested in UX design, web3 and blockchain technology
+- 🌱 I’m
 - 💞️ I’m looking to collaborate on hands-on projects to improve my skillset
 
 <!---
